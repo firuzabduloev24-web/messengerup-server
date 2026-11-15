@@ -1,0 +1,1 @@
+# Standart Python kutubxonalari ishlatilgan (qo'shimcha paket shart emas)
